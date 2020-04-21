@@ -1,0 +1,1 @@
+# Sum-the-Array-Elements-then-find-its-Max-and-Min-value-using-Python
